@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1597052165 source:c:\users\shashank\desktop\primenum\main.c
+	"test_factorial.h"
+
+1597052165 c:\users\shashank\desktop\primenum\test\test_factorial.h
+
+1597317247 source:c:\users\shashank\desktop\primenum\test\test_factorial.c
+	"unity.h"
+	"factorial.h"
+
+1597052165 c:\users\shashank\desktop\primenum\unity\unity.h
+	"unity_internals.h"
+
+1597052165 c:\users\shashank\desktop\primenum\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597317247 c:\users\shashank\desktop\primenum\inc\factorial.h
+
+1597052165 source:c:\users\shashank\desktop\primenum\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
